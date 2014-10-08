@@ -1,0 +1,72 @@
+$s: 1rem;
+
+html {
+
+    body {
+        @include media(max-width 400px 1) {
+            @include font-scale(1.1rem);
+        }
+
+        @include media(min-width 401px max-width 600px 12) {
+            @include font-scale(1.2rem);
+        }
+
+        @include media(min-width 601px) {
+            @include font-scale(1.3rem);
+        }
+
+        .title {
+            font-size: 5rem;
+            font-family: $guydefaye;
+            font-weight: 400;
+            margin: .7rem 0;
+            color: $dark-gray;
+            @include background(linear-gradient(black, lighten($dark-gray, 25%)));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        header {
+            text-align: center;
+            margin: 2rem auto;
+
+            img {
+                text-align: center;
+                @include border-radius(50%);
+                width: 35%;
+            }
+
+            nav {
+
+            }
+        }
+
+        .content {
+            border: 5px solid #efefef;
+            @include border-radius(5px);
+            padding: 2.5rem 2rem;
+            .foreword {
+                ul li {
+                    margin-bottom: .5rem;
+                    border-bottom: 2px dashed #ececec;
+                }
+                ul {
+                    margin-bottom: 1.5rem;
+                }
+            }
+        }
+
+        footer {
+            text-align: center;
+            margin: 2rem 0;
+        }
+
+    }
+}
+.centered {
+    text-align: center;
+}
+.written {
+    font-family: $guydefaye;
+    font-weight: 400;
+}
