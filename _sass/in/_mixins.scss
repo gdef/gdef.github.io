@@ -1,8 +1,10 @@
 @mixin border-radius($r) {
-  @include border-top-radius($r);
-  @include border-left-radius($r);
-  @include border-right-radius($r);
-  @include border-bottom-radius($r);
+  -webkit-border-radius: $r;
+  -moz-border-radius: $r;
+  border-radius: $r;
+  behavior: url(css/pie.htc);  
+  position: relative;  
+  zoom: 1;  
 }
 
 @mixin font-scale($s) {
