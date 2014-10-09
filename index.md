@@ -1,3 +1,8 @@
+---
+layout: default
+title: Guy de Faye
+---
+
 <div class="foreword centered" markdown="1">
 
 * I have a reputation for problem solving. 

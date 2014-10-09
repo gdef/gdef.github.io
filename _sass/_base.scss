@@ -21,9 +21,6 @@ html {
             font-weight: 400;
             margin: .7rem 0;
             color: $dark-gray;
-            // @include background(linear-gradient(black, lighten($dark-gray, 25%)));
-            // -webkit-background-clip: text;
-            // -webkit-text-fill-color: transparent;
         }
 
         header {
