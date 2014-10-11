@@ -59,12 +59,12 @@ html {
             bottom: 2rem;
             right: 2rem;
             a {
-                color: black;
+                color: lighten($blue, 10);
                 font-size: 1.2rem;
                 width: 3rem;
                 height: 3rem;
                 @include border-radius(50%);
-                background-color: rgba(0, 0, 0, 0.2);
+                background-color: rgba(0, 0, 0, 0.1);
                 padding: 1.5rem;
             }
         }
@@ -86,9 +86,10 @@ html {
 
 .your-questions {
     #table-of-contents {
-        @include background(linear-gradient(#ececec, #efefef) left repeat);
+        color: white;
+        @include texture(180deg, lighten(#497FCA, 10), darken(#497FCA, 5), 2);
         @include border-radius(5px);
-        border: 5px solid #ececec;
+        border: 5px solid #497FCA;
         padding: 1rem;
         .topic {
             @include font-scale(1.5rem);
@@ -97,12 +98,11 @@ html {
         .q {
             @include font-scale(1.1rem);
             margin: 0 0 .5rem 1rem;
-            border-bottom: 2px dashed #ececec;
         }
         a {
-            color: darken(gray, 25%);
+            color: white;
             &:hover {
-                color: darken(gray, 5%);
+                color: darken(white, 5%);
             }
         }
     }

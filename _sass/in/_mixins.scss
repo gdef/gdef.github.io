@@ -23,3 +23,15 @@
   h5 { font-size: $s * 1.2; }
   h6 { font-size: $s * 1.1; }
 }
+
+@mixin texture($gradient-angle, $bg-color-1, $bg-color-2, $texture-number) { 
+  // gradient angle, gradient color 1, gradient color 2, texture-number
+  $texture-list:
+    "white-wall.png"
+    "diagonal-noise.png"
+    "brilliant.png";
+
+  @include background(url("/images/textures/#{nth($texture-list, $texture-number)}"), 
+    linear-gradient($gradient-angle, $bg-color-1, $bg-color-2), 
+    center no-repeat $bg-color-1 scroll);
+}
