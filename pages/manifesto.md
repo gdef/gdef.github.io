@@ -3,7 +3,7 @@ layout: default
 title: Manifesto
 permalink: /manifesto/
 ---
-<h2 id="tax">Ease the taxation</h2>
+<h2 id="tax">Tax</h2>
 
 The global economy remains extremely unstable and the recent recession made life a real struggle for many Islanders.
 
@@ -11,7 +11,7 @@ I do not see salaries in the private sector increasing any time soon, but I beli
 
 I favour a new introductory income tax rate of 10% and would favour, as an example, removing import duty on alcohol, where high prices are clearly adversely affecting the pub trade, the hospitality industry and tourism.
 
-<h2 id="immigration">Control the ports</h2>
+<h2 id="immigration">Immigration</h2>
 
 Everyday the international news indicates that the world is becoming an increasingly dangerous environment. British passport holders who have visited the Middle East could be aid workers or suicide bombers.
 
@@ -25,7 +25,7 @@ To date no serious action has been taken, which means that solutions are going t
 
 One potential avenue is reducing the scope for receiving child benefit linked to preferential treatment for housing accommodation.
 
-<h2 id="public-sector">Stop expanding the public sector</h2>
+<h2 id="public-sector">Public sector</h2>
 
 I am staggered by the latest figures indicating that Jersey now has over **7,000 public service employees**.
 
@@ -45,3 +45,5 @@ Constitutional reform
 </span>
 
 [1]: /downloads/de-Faye-Guy.pdf
+
+<div id="back-to-menu"><a href="#navigation-menu">&#9650;</a></div>

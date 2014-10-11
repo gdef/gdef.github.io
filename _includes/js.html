@@ -1,3 +1,13 @@
 <script src="/js/jquery-2.1.1.min.js"></script>
-<script src="/js/accordion-tabs.js"></script>
 <script src="/js/navigation.js"></script>
+<script src="/js/jquery.scrollTo.js"></script>
+<script src="/js/jquery.localScroll.js"></script>
+<script>
+$(window).bind('scroll', function() {
+     if ($(window).scrollTop() > 100) {
+         $('#back-to-menu').show(100);
+     } else {
+         $('#back-to-menu').hide(100);
+     }
+});
+</script>
