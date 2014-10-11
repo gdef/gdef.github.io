@@ -20,6 +20,6 @@ I am Guy de Faye and I value your vote.
 
 If you would like to assist my election campaign please contact me by emailing
 
-<h4 class="written"><a href="mailto:guydefayejersey@gmail.com">guydefayejersey@gmail.com</a></h4>
+<h4 class="written"><a href="mailto:{{ site.email }}">{{ site.email }}</a></h4>
 
 </div>
