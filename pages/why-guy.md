@@ -4,6 +4,9 @@ title: Why Guy?
 permalink: /why-guy/
 ---
 
+{{ page.title }}
+===
+
 <h2>Nomination of Guy de Faye as Candidate for Senator</h2>
 
 <h3>Sep 2014</h3>

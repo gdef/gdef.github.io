@@ -3,6 +3,10 @@ layout: default
 title: Manifesto
 permalink: /manifesto/
 ---
+
+{{ page.title }}
+===
+
 <h2 id="tax">Tax</h2>
 
 The global economy remains extremely unstable and the recent recession made life a real struggle for many Islanders.

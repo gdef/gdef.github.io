@@ -4,6 +4,9 @@ title: Nomination team
 permalink: /nomination-team/
 ---
 
+{{ page.title }}
+===
+
 I am very grateful to my nomination team for offering their initial support for this Senatorial Election.
 
 Proposer
