@@ -4,7 +4,7 @@
 <script src="/js/jquery.localScroll.js"></script>
 <script>
 $(window).bind('scroll', function() {
-     if ($(window).scrollTop() > 100) {
+     if ($(window).scrollTop() > $('nav').offset().top) {
          $('#back-to-menu').show(100);
      } else {
          $('#back-to-menu').hide(100);
