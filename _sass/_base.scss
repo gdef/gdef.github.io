@@ -1,5 +1,3 @@
-$s: 1rem;
-
 html {
 
     body {
@@ -8,33 +6,46 @@ html {
         }
 
         @include media(min-width 401px max-width 600px 12) {
-            @include font-scale(1.2rem);
-        }
-
-        @include media(min-width 601px) {
             @include font-scale(1.3rem);
         }
 
+        @include media(min-width 601px) {
+            @include font-scale(1.5rem);
+        }
+
         .title {
-            font-size: 5rem;
+            @include media(max-width 400px 1) {
+                font-size: 3rem;
+            }
+
+            @include media(min-width 401px max-width 600px 12) {
+                font-size: 3.5rem;
+            }
+
+            @include media(min-width 601px) {
+                font-size: 4rem;
+            }
+
             font-family: $guydefaye;
             font-weight: 400;
-            margin: .7rem 0;
+            margin-bottom: .7rem;
             color: $dark-gray;
         }
 
         header {
+
+            #banner {
+                li {
+                    @include omega;
+                }
+            }
             text-align: center;
             margin: 2rem auto;
 
             img {
                 text-align: center;
                 @include border-radius(50%);
-                width: 35%;
-            }
-
-            nav {
-
+                width: 10%;
             }
         }
 

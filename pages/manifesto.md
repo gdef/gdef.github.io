@@ -49,5 +49,3 @@ Constitutional reform
 </span>
 
 [1]: /downloads/de-Faye-Guy.pdf
-
-<div id="back-to-menu"><a href="#navigation-menu">&#9650;</a></div>
