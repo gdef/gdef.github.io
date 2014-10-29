@@ -94,6 +94,19 @@ html {
     font-family: $guydefaye;
     font-weight: 400;
 }
+.signature {
+    @include media(max-width 400px 1) {
+        font-size: 1.2rem;
+    }
+
+    @include media(min-width 401px max-width 600px 12) {
+        font-size: 1.5rem;
+    }
+
+    @include media(min-width 601px) {
+        font-size: 2rem;
+    }
+}
 
 .your-questions {
     article {
@@ -133,5 +146,19 @@ html {
         &:hover {
             color: darken(white, 5%);
         }
+    }
+}
+footer {
+    color: #333;
+    @include media(max-width 400px 1) {
+        font-size: .75rem;
+    }
+
+    @include media(min-width 401px max-width 600px 12) {
+        font-size: .9rem;
+    }
+
+    @include media(min-width 601px) {
+        font-size: 1rem;
     }
 }

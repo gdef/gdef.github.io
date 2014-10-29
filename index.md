@@ -5,21 +5,16 @@ title: Guy de Faye
 
 <div class="foreword centered" markdown="1">
 
-* I have a reputation for problem solving. 
-* I provide creative solutions. 
-* I do not promise what I cannot deliver. 
-* Most of the time *I do* deliver.
+Many thanks to all the visitors to this website who gave me a Senatorial vote 
+in Jersey's first *General Election 2014*. 
 
-Please allow me to help Jersey's people, its economy and environment at this difficult time and entrust me with one of your Senator votes.
+I was hugely encouraged by the very favourable responses I received during the 
+*Island hustings tour*, but &mdash; unfortunately &mdash; this did not spread 
+to the wider electorate.
 
-Election Day is <span class="written" style="font-size: 3rem">October 15th</span>
+I can offer an assurance that keeping the Island wide vote and retaining the
+role of Senator &mdash; preferably in greater numbers &mdash; *will* continue.
 
-I am Guy de Faye and I value your vote.
-
-<h1><span class="written"><em>Guy de Faye.</em></span></h1>
-
-If you would like to assist my election campaign please contact me by emailing
-
-<h4 class="written"><a href="mailto:{{ site.email }}">{{ site.email }}</a></h4>
+Sincerely &mdash; <span class="written signature"><em>Guy de Faye</em></span>
 
 </div>
