@@ -15,7 +15,7 @@ nav.navigation {
   $navigation-submenu-width: 12em;
   $horizontal-bar-mode: 768px;
 
-  @include background(linear-gradient(#efefef, lighten(#333, 60%)) left repeat);
+  @include background(linear-gradient($navigation-background, darken($navigation-background, 10%)) left repeat);
   // background-color: $navigation-background;
   border-bottom: 1px solid darken($navigation-background, 10);
   height: $navigation-height;
@@ -61,7 +61,7 @@ nav.navigation {
     }
   }
 
-  ul#navigation-menu {    
+  ul#navigation-menu {
     -webkit-transform-style: preserve-3d; // stop webkit flicker
     clear: both;
     display: none;
@@ -167,7 +167,7 @@ nav.navigation {
         font-size: 1.2em;
         position: absolute;
         right: $navigation-submenu-padding / 2;
-      }      
+      }
     }
 
     &:hover > .submenu {

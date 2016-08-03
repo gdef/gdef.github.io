@@ -5,16 +5,14 @@ title: Guy de Faye
 
 <div class="foreword centered" markdown="1">
 
-Many thanks to all the visitors to this website who gave me a Senatorial vote 
-in Jersey's first *General Election 2014*. 
+As you will have gathered, I am contesting Jersey's Senatorial
+by&mdash;election which will be held on
 
-I was hugely encouraged by the very favourable responses I received during the 
-*Island hustings tour*, but &mdash; unfortunately &mdash; this did not spread 
-to the wider electorate.
+<strong><em>Wednesday 7th September.</em></strong>
 
-I can offer an assurance that keeping the Island wide vote and retaining the
-role of Senator &mdash; preferably in greater numbers &mdash; *will* continue.
+If you would like details of the election arrangements I would advise
+consulting the <a href="https://vote.je">vote.je</a> website.
 
-Sincerely &mdash; <span class="written signature"><em>Guy de Faye</em></span>
-
+For more, see my recent <a href="/press-release">Press Release</a> sent to the
+local media, which produced interestingly divergent results on publication.
 </div>

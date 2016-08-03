@@ -15,10 +15,9 @@ Proposer
 Michael Millar
 ===
 
-Seconders
----
+*Seconders to be notified.*
 
-Clive Barton MBE, Nigel le Gresley, Greg Jones, Steven Rault, Jean Sim, Margaret Thompson, David Tupper, Simon Williams and Andrew Wintour.
----
 
-Additionally, see Mick Millar's speech from the Nomination Meeting under *Why Guy?*.
+Additionally, see Mick Millar's [speech from the 2014 Nomination Meeting][1].
+
+[1]:/why-guy/
