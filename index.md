@@ -6,7 +6,7 @@ title: Guy de Faye
 <div class="foreword centered" markdown="1">
 
 As you will have gathered, I am contesting Jersey's Senatorial
-by&mdash;election which will be held on
+bye&mdash;election which will be held on
 
 <strong><em>Wednesday 7th September.</em></strong>
 

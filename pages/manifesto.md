@@ -22,17 +22,19 @@ To date no serious action has been taken, which means that solutions are going t
 
 One potential avenue is reducing the scope for receiving child benefit linked to preferential treatment for housing accommodation.
 
+To avoid hardship, any new measures would not be imposed upon current families.
+
 <h2 id="public-sector">Public sector</h2>
 
-I am staggered by the latest figures indicating that Jersey now has over **7,000 public service employees**.
+I was astonished recently by statistics indicating that Jersey had over 7,000 public service employees. This was around a thousand more personnel when compared to the total numbers that were States employees when I was a Minister. To date, efforts by the Council of Ministers and senior civil servants to reduce these numbers have produced limited results.
 
-States Members and senior civil servants have to take some responsibility for cutting this back, when the latest figures show our current account is already *minus* **£50 million**.
+However, alongside spending on public sector salaries, Jersey is facing other serious financial commitments. The new hospital will cost at least £450 Million, which should be linked to a minimum of £200 Million in loans that have been taken out to support Andium (the new Housing Department quango). Add in another £100 Million or so for the outcome of the Liquid Waste Strategy and the approximate £20/30 Million spent on a new police station begins to appear minor spending by comparison. Then there are the States pension funds where, when I last investigated, payments in were not expected to come into balance with outgoings until 2080.
 
-Of course, this is just the tip of the iceberg and the public know little of the real position.
+In the light of this massive expenditure, it is hardly surprising that the States of Jersey regularly wastes smaller amounts in the tens and hundreds of thousands of pounds on failed projects or projects that simply don't happen. Not to mention the recent mistaken "double payment" of £1 Million pounds due to one electronic invoice duplicated by a hard copy invoice. No harm done, but tax payers will be left wondering how many other mistakes have gone undetected!
 
-A very highly placed source recently confided to me that Jersey's total debt is considerably more than **£1,000 million**.
+Back in 2014, a highly placed source told me that Jersey's debts exceed £1,000 Million and, since that estimation, the States has yet to resolve the outstanding structural debt in annual revenues.
 
-Whilst this staggering figure may include outstanding pension fund payments, I want to discover what is actually going on and take serious measures to improve matters.
+It is increasingly obvious that we cannot continue to fiddle at the margins, as previously. Our current economic growth model appears to be dysfunctional and I want to be at the forefront of developing a new approach.
 
 <h2 id="tax">Tax</h2>
 

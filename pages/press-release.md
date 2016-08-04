@@ -22,7 +22,7 @@ Jersey has seen only marginal benefits from its association with the European
 Economic Community and, subsequently, the E.U. ­so in the light of events in the
 United Kingdom, the Island should act to enhance its position.
 
-I am not satisfied with the Council of Ministers declared position of
+I am not satisfied with the Council of Ministers declared strategy of
 maintaining the “status quo”. In respect of freedom of movement, Jersey must
 adopt policies that will mean “taking control” of our immigration and
 population growth, which are now seriously impacting upon our public services.
@@ -33,7 +33,8 @@ at the same time as our major industry, financial services, is facing renewed
 external pressures. I intend to promote alternative and realistic options for
 the future of the Island's economy based more closely on its natural resources.
 
-I intend to pursue my straight talking approach.
+I will continue my straight talking approach - in contrast with the more widely
+used technique of "telling voters what they want to hear".
 
 I sense voters are becoming weary of “stealth taxes” being variously described
 as charges, fees, licenses and levies. I consider that increasing tax should be
